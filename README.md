@@ -1,5 +1,7 @@
 # TestApp
 This is  a demo app
+
+
 1.
 In this app i use product flavour in app module build.gradle file
 Here i define 2 flavour
