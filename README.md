@@ -6,7 +6,6 @@ This is  a demo app
 In this app i use product flavour in app module build.gradle file
 Here i define 2 flavour
 qa and prod
-
 Change build variants from left side drawer and made apk according to flavour
 
 2.
