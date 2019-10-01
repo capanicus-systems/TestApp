@@ -1,0 +1,6 @@
+framework module Pods_ToDoQuiz {
+  umbrella header "Pods-ToDoQuiz-umbrella.h"
+
+  export *
+  module * { export * }
+}

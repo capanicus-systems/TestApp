@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>864887337121-6gqie2des4b2gp8inbrthmmn91pk0et4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.864887337121-6gqie2des4b2gp8inbrthmmn91pk0et4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSQiB7kumh8-Yi3_7MdKO5BF31ymzCxaQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>864887337121</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.capanicus.ToDoQuiz</string>
+	<key>PROJECT_ID</key>
+	<string>todoquiz-d9217</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todoquiz-d9217.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:864887337121:ios:b6c1ff0268d1ebae2340e0</string>
+	<key>DATABASE_URL</key>
+	<string>https://todoquiz-d9217.firebaseio.com</string>
+</dict>
+</plist>
